@@ -12,7 +12,7 @@
 url: https://gustavolsj.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /coleccion-de-estudio
+baseurl: /collectionbuilder_col-estudio
 # location of code, the full url to your github repository
 source-code: https://github.com/owikle/cb-multilingual-again
 
@@ -58,7 +58,8 @@ defaults:
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: metadata-col-estudio
+#metadata: metadata-col-estudio
+metadata: cb_lote_consola_1782331182976
 
 ##########
 # Site/Organization Branding 
